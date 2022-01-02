@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x703C0f35EA45BE7E9331e067ee1De8E0dA646A07",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x703c0f35ea45be7e9331e067ee1de8e0da646a07#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodle X",
+  "SYMBOL": "DOODLE X",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
